@@ -1,4 +1,9 @@
 public class Client{
 	String name
 	Integer age
+
+	public function getName{
+		return $name;
+	}
+
 }
