@@ -1,0 +1,4 @@
+public class Commande{
+	Integer id
+	String reference
+}
