@@ -1,4 +1,8 @@
 public class Commande{
 	Integer id
 	String reference
+
+	private function getReference(){
+		return reference;
+	}
 }
