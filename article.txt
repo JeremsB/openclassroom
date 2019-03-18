@@ -1,0 +1,5 @@
+public class Article{
+	Integer id
+	String name
+	String category
+}
